@@ -5,7 +5,7 @@ In this project, The goal is to understand the results of an A/B Test run by an 
 
 ## Project's Parts
 The project is split into three parts, and They are as follows:
-### Part One: Probability
-### Part Two: A/B Test
-### Part Three: A regression approach
+#### Part One: Probability
+#### Part Two: A/B Test
+#### Part Three: A regression approach
 
